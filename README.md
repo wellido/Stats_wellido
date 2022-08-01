@@ -1,2 +1,1 @@
-# Stats_wellido
-あらら
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellido)](https://github.com/anuraghazra/github-readme-stats)
