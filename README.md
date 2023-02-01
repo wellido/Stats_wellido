@@ -1,1 +1,1 @@
-发不出paper的SE PhD一枚
+发不出paper的SE PhD student一枚
